@@ -1,4 +1,4 @@
-# first_app
+# LocaLens
 
 A new Flutter project.
 
